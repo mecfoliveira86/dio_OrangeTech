@@ -1,5 +1,16 @@
 package methods03;
 //This class will simulate a SmartTV with its functions like volume and channel control 
+
+import javaScope04.author;
+import javaScope04.param;
+
+/**
+ * 
+@author Felipe Oliveira
+@param power its is related to indicate if the television is turned on/off
+@param volume
+@param channel
+ * */
 public class Methods01 {
 	
 	boolean power = false;
