@@ -1,5 +1,6 @@
 package javaScope04;
 
+
 public class Scope01 {
 	//Scope is a subject aligned to variable access inside Classes or methods.
 	
