@@ -22,6 +22,7 @@ public class Exercice02 {
 				System.out.println("Nota inválida!");
 			}
 		}
+		sc.close();
 	}
 
 }

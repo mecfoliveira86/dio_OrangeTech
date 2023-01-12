@@ -23,5 +23,6 @@ public class Exercice01 {
 			}
 		}
 		System.out.println("Finalizado!");
+		sc.close();
 	}
 }
