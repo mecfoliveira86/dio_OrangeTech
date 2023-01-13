@@ -7,7 +7,7 @@ import java.util.Random;
 
 public class Exercice09 {
 	
-	public static void main(String [] args) {
+	public static void main(String[] args){
 		Random rd = new Random();
 		int[] valores = new int[20];
 		
